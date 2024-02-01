@@ -23,7 +23,7 @@ This repository contains a PDF document outlining various career paths within th
 
 ## Download PDF
 
-- [Cybersecurity Career Path PDF](link_to_pdf)
+- [Cybersecurity Career Path PDF](https://github.com/rumenhusen/cybersecurity-career-roadmap/blob/main/Cybersecurity%20Career%20Roadmap.pdf)
 
 ## How to Use
 
